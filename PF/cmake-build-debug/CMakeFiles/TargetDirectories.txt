@@ -1,0 +1,3 @@
+C:/Users/usuario.DESKTOP-GDR7TES/Desktop/PF/cmake-build-debug/CMakeFiles/PF.dir
+C:/Users/usuario.DESKTOP-GDR7TES/Desktop/PF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario.DESKTOP-GDR7TES/Desktop/PF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
